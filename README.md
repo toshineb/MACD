@@ -1,6 +1,5 @@
 # MACD (Moving Average Convergence Divergence) - A Critical Learning Guide
 
-
 ## What is MACD?
 
 **MACD (Moving Average Convergence Divergence)** is a momentum-based technical indicator that measures the relationship between two exponential moving averages (EMAs) of a security's price. It attempts to capture the direction and momentum of price movements over time.
@@ -207,5 +206,3 @@ To deepen your understanding, explore:
 - MACD was developed by Gerald Appel in 1979
 - Standard periods (12, 26, 9) come from traditional floor trading patterns, not optimization
 - See "Technical Analysis from A to Z" by Steven B. Achelis for broader context
-- For critical perspectives, read "A Random Walk Down Wall Street" by Burton Malkiel
-# MACD
