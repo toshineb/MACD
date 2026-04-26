@@ -205,4 +205,4 @@ To deepen your understanding, explore:
 
 - MACD was developed by Gerald Appel in 1979
 - Standard periods (12, 26, 9) come from traditional floor trading patterns, not optimization
-- See "Technical Analysis from A to Z" by Steven B. Achelis for broader context
+- See "Technical Analysis from A to Z" by Steven B. Achelis for broader
